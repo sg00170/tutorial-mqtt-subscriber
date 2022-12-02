@@ -1,0 +1,18 @@
+{
+  "name": "subscriber",
+  "version": "1.0.0",
+  "description": "mqtt subscriber",
+  "main": "index.js",
+  "scripts": {
+    "test": "mqtt subscriber"
+  },
+  "keywords": [
+    "mqtt",
+    "subscriber"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^3.0.0"
+  }
+}
